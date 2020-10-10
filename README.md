@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a product designer.
-- 🌱 I’m currently learning JavaScript and React.
+🔭 I’m a product designer.
+🌱 I’m currently learning JavaScript and React.
 
 [![jeejeekwan's github stats](https://github-readme-stats.vercel.app/api?username=jeejeekwan)](https://github.com/jeejeekwan/github-readme-stats)
